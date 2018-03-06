@@ -12,3 +12,4 @@
 
 # 执行代码
 * 1MyLSTMModel： 包含LSTM分词模型，使用Keras实现，可在python3.5环境下运行
+* 基于LSTM，用Keras实现的粤语中文分词
